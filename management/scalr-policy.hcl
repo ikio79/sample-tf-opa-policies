@@ -1,6 +1,6 @@
 version = "v1"
 
-policy "instance_types" {
+policy "instance_types1" {
   enabled           = true
   enforcement_level = "hard-mandatory"
 }
